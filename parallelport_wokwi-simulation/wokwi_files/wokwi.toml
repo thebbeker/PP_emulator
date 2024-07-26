@@ -1,0 +1,6 @@
+[wokwi]
+version = 1
+elf = "../.pio/build/embedded/firmware.elf"
+firmware = "../.pio/build/embedded/firmware.bin"
+rfc2217ServerPort = 4000
+gdbServerPort = 3333
