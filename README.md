@@ -4,7 +4,8 @@ README_parallelport                                    Hebbeker   2024-07-26
   
   
 Detailed documentation = article "Parallel Port Revival" by Thomas Hebbeker,  
-https://zenodo.org/  
+https://zenodo.org/records/13118320
+
   
   
   
